@@ -10,7 +10,7 @@ The project demonstrates an **end-to-end machine learning workflow** including *
 - 🎥 [View LinkedIn Demo Post](https://www.linkedin.com/posts/rawan-alwadeya-17948a305_deeplearning-artificialneuralnetworks-binaryclassification-activity-7364474655748870144-_mF7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3YzG0BAZw48kimDDr_guvq8zXgSjDgk_I)  
 - 🌐 [Try the App Live on Streamlit](https://autismpredictor-h6kfmers62gfwz5at9bprh.streamlit.app/)
 
-![App Demo]()
+![App Demo](https://github.com/rawan-alwadiya/AutismPredictor/blob/main/AutismPredictor.png)
 
 ---
 
